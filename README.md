@@ -1,7 +1,7 @@
 # hw-2-brnaydin
 hw-2-brnaydin created by GitHub Classroom
 
-HW#2
+HW#2  
 1 – IOC and DI means ?  
 2 – Spring Bean Scopes ?  
 3 – What does @SpringBootApplication do ?  
